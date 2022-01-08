@@ -47,7 +47,7 @@ class SignInPage extends Component {
   };
 
   goToSignUp = () => {
-    window.location.hash = '/signup';
+    window.location.hash = '/sign-up';
   };
 
   render() {
