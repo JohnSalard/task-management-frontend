@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://arielweinberger.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://arielweinberger.github.io/task-management-frontend/static/js/main.e59148d8.chunk.js",
-    "main.js.map": "https://arielweinberger.github.io/task-management-frontend/static/js/main.e59148d8.chunk.js.map",
-    "runtime~main.js": "https://arielweinberger.github.io/task-management-frontend/static/js/runtime~main.9edc4a16.js",
-    "runtime~main.js.map": "https://arielweinberger.github.io/task-management-frontend/static/js/runtime~main.9edc4a16.js.map",
-    "static/js/2.c1498b61.chunk.js": "https://arielweinberger.github.io/task-management-frontend/static/js/2.c1498b61.chunk.js",
-    "static/js/2.c1498b61.chunk.js.map": "https://arielweinberger.github.io/task-management-frontend/static/js/2.c1498b61.chunk.js.map",
-    "index.html": "https://arielweinberger.github.io/task-management-frontend/index.html",
-    "precache-manifest.0a88baa7b4ebb92ea89c64cd3e3f4832.js": "https://arielweinberger.github.io/task-management-frontend/precache-manifest.0a88baa7b4ebb92ea89c64cd3e3f4832.js",
-    "service-worker.js": "https://arielweinberger.github.io/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://arielweinberger.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "https//johnsalard.github.io/taskmanagement-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https//johnsalard.github.io/taskmanagement-frontend/static/js/main.eb882999.chunk.js",
+    "main.js.map": "https//johnsalard.github.io/taskmanagement-frontend/static/js/main.eb882999.chunk.js.map",
+    "runtime~main.js": "https//johnsalard.github.io/taskmanagement-frontend/static/js/runtime~main.3dbb3c1c.js",
+    "runtime~main.js.map": "https//johnsalard.github.io/taskmanagement-frontend/static/js/runtime~main.3dbb3c1c.js.map",
+    "static/js/2.6e6dcf4c.chunk.js": "https//johnsalard.github.io/taskmanagement-frontend/static/js/2.6e6dcf4c.chunk.js",
+    "static/js/2.6e6dcf4c.chunk.js.map": "https//johnsalard.github.io/taskmanagement-frontend/static/js/2.6e6dcf4c.chunk.js.map",
+    "index.html": "https//johnsalard.github.io/taskmanagement-frontend/index.html",
+    "precache-manifest.5a82220e32d851bc215b0ca273ae13ce.js": "https//johnsalard.github.io/taskmanagement-frontend/precache-manifest.5a82220e32d851bc215b0ca273ae13ce.js",
+    "service-worker.js": "https//johnsalard.github.io/taskmanagement-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https//johnsalard.github.io/taskmanagement-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
