@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a29e0cb65eba8182525feadc7179305",
+    "revision": "f5d1c52b53018d4fb3c0466b9923f8d6",
     "url": "https://johnsalard.github.io/task-management-frontend/index.html"
   },
   {
-    "revision": "05b8789e183044bde2ed",
+    "revision": "f600a821783193b2a1e2",
     "url": "https://johnsalard.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://johnsalard.github.io/task-management-frontend/static/js/2.4011d864.chunk.js"
   },
   {
-    "revision": "05b8789e183044bde2ed",
-    "url": "https://johnsalard.github.io/task-management-frontend/static/js/main.70a10974.chunk.js"
+    "revision": "f600a821783193b2a1e2",
+    "url": "https://johnsalard.github.io/task-management-frontend/static/js/main.cb7dc677.chunk.js"
   },
   {
     "revision": "5b9976631c099ddcd7e5",
