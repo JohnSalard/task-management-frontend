@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://johnsalard.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://johnsalard.github.io/task-management-frontend/static/js/main.c3a30e65.chunk.js",
-    "main.js.map": "https://johnsalard.github.io/task-management-frontend/static/js/main.c3a30e65.chunk.js.map",
+    "main.js": "https://johnsalard.github.io/task-management-frontend/static/js/main.991699cc.chunk.js",
+    "main.js.map": "https://johnsalard.github.io/task-management-frontend/static/js/main.991699cc.chunk.js.map",
     "runtime~main.js": "https://johnsalard.github.io/task-management-frontend/static/js/runtime~main.fece2ba9.js",
     "runtime~main.js.map": "https://johnsalard.github.io/task-management-frontend/static/js/runtime~main.fece2ba9.js.map",
     "static/js/2.4011d864.chunk.js": "https://johnsalard.github.io/task-management-frontend/static/js/2.4011d864.chunk.js",
     "static/js/2.4011d864.chunk.js.map": "https://johnsalard.github.io/task-management-frontend/static/js/2.4011d864.chunk.js.map",
     "index.html": "https://johnsalard.github.io/task-management-frontend/index.html",
-    "precache-manifest.fbc6a9ea362ceb399ae73f60f1365370.js": "https://johnsalard.github.io/task-management-frontend/precache-manifest.fbc6a9ea362ceb399ae73f60f1365370.js",
+    "precache-manifest.def5e0934a202dcaf40bd0d60a28f7d4.js": "https://johnsalard.github.io/task-management-frontend/precache-manifest.def5e0934a202dcaf40bd0d60a28f7d4.js",
     "service-worker.js": "https://johnsalard.github.io/task-management-frontend/service-worker.js",
     "static/css/main.5ac26d30.chunk.css.map": "https://johnsalard.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
